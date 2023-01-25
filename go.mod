@@ -1,4 +1,4 @@
-module github.com/marten-seemann/webtransport-go
+module github.com/nazo/webtransport-go
 
 go 1.18
 
@@ -13,9 +13,9 @@ require (
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
-	github.com/marten-seemann/qpack v0.3.0 // indirect
-	github.com/marten-seemann/qtls-go1-18 v0.1.3 // indirect
-	github.com/marten-seemann/qtls-go1-19 v0.1.1 // indirect
+	github.com/quic-go/qpack v0.3.0 // indirect
+	github.com/quic-go/qtls-go1-18 v0.1.3 // indirect
+	github.com/quic-go/qtls-go1-19 v0.1.1 // indirect
 	github.com/onsi/ginkgo/v2 v2.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect

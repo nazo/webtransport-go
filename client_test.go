@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/marten-seemann/webtransport-go"
+	"github.com/nazo/webtransport-go"
 
 	"github.com/lucas-clemente/quic-go"
 	"github.com/lucas-clemente/quic-go/http3"

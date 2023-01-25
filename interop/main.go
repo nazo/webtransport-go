@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/lucas-clemente/quic-go/http3"
-	"github.com/marten-seemann/webtransport-go"
+	"github.com/nazo/webtransport-go"
 )
 
 //go:embed index.html
